@@ -1,6 +1,5 @@
 #简述
 	1 中科生仪官网
-	2 作者：刘春雨(email: 616872074@qq.com tel: 18210670405; github（码云，conding）: xiaoyu311)
 
 ## Build Setup
 
