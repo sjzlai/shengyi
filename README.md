@@ -23,7 +23,7 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 
 ##发布
 ```
-1. ssh root@39.106.128.7   密码：lhaGH168
+1. ssh root@******   密码：******
 2. 进入 ls /home/wwwroot/ibs-bj/public/shengyi
 3. git 更新
 4. pm2 stop all
